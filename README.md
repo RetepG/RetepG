@@ -37,7 +37,7 @@ As a full-stack developer, I thrive on crafting innovative and user-friendly web
     <img src="https://github.com/RetepG/CapStone/blob/dev/react-app/src/assets/Landing.png">
   </a>
    <a href="https://github.com/ProjectWorkTeam/Jello">Jello
-    <img src="https://github.com/RetepG/CapStone/blob/dev/react-app/src/assets/Landing.png">
+    <img src="https://github.com/ProjectWorkTeam/Jello/blob/main/assets/Jellofrontpage.jpg">
   </a>
    <a href="https://github.com/RetepG/AirBnB">OverNight Stay
     <img src="https://github.com/RetepG/CapStone/blob/dev/react-app/src/assets/Landing.png">
